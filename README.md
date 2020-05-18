@@ -8,7 +8,7 @@ This is a Matlab R2020a-based tool to train and use GANs for histological images
 ## How to use?
 
 ### Find an image data set
-First, you need to find an image data set to train a GAN on. For example, you can use the training images in this repository: ...
+First, you need to find an image data set to train a GAN on. For example, you can use the training images in this repository: https://zenodo.org/record/3832231 
 
 ### Train the GAN
 Now, you can train the GAN on this image set, like this:
